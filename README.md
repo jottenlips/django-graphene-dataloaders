@@ -40,6 +40,12 @@ Resolve question uses a dataloader for efficient querying.
       }
     }
   }
+  # Debug your SQL
+  _debug {
+    sql {
+      rawSql
+    }
+  }
 }
 
 ```
