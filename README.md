@@ -1,4 +1,4 @@
-# Django Polls with GraphQL and Dataloaders 📊
+# Django Polls GraphQL 📊
 
 This is a Django GraphQL App based on the Django Polls tutorial.
 I made this to experiment 🧪 with dataloaders and the relay pattern.
